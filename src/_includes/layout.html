@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Lyceum</title>
+    <style>
+        html {
+            margin: 40px auto;
+            padding: 0 10 px;
+            max-width: 600px;
+            color: #444;
+            background-color: #efefef;
+            font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            line-height: 1.6;
+        }
+
+        h1, h2, h3 {
+            line-height: 1.2;
+        }
+
+        a {
+            color: #5f5fd3;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        table {
+            width: auto;
+            text-align: left;
+            border-collapse: collapse;
+        }
+
+        th:first-child, td:first-child {
+            width: 8em;
+        }
+
+        s {
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>{{ title }}</h1>
+    {{ content }}
+</body>
+</html>
