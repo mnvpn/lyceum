@@ -7,11 +7,11 @@ Every Saturday, 3pm BST / 10am EDT on Discord. DM [@mnvpn](https://x.com/mnvpn) 
 ## Schedule
 | Date  | Text                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 16/03 | [*Euthyphro*](https://classics.mit.edu/Plato/euthyfro.html)                                                                                                                                                              |
-| 23/03 | [*Apology*](https://classics.mit.edu/Plato/apology.html) and [*Crito*](https://classics.mit.edu/Plato/crito.html)                                                                                                        |
-| 30/03 | [*Meno*](https://classics.mit.edu/Plato/meno.html)                                                                                                                                                                       |
-| 06/04 | [*Phaedo*](https://classics.mit.edu/Plato/phaedo.html)                                                                                                                                                                   |
 | 13/04 | [*The Kekulé Problem*](https://nautil.us/the-kekul-problem-236574/) and [*The Library of Babel*](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf) |
+| 06/04 | [*Phaedo*](https://classics.mit.edu/Plato/phaedo.html)                                                                                                                                                                   |
+| 30/03 | [*Meno*](https://classics.mit.edu/Plato/meno.html)                                                                                                                                                                       |
+| 23/03 | [*Apology*](https://classics.mit.edu/Plato/apology.html) and [*Crito*](https://classics.mit.edu/Plato/crito.html)                                                                                                        |
+| 16/03 | [*Euthyphro*](https://classics.mit.edu/Plato/euthyfro.html)                                                                                                                                                              |
 
 ## Reading List
 Texts are picked on a per-session rolling basis, but we prefer to read 'modules' of related texts back to back for continuity.
