@@ -29,8 +29,8 @@ Texts are picked on a per-session rolling basis, but we prefer to read 'modules'
 
 ### Let's Be Unreasonable
 
-- *The Kekulé Problem*, Cormac McCarthy
-- *The Library of Babel*, Jorge Luis Borges
+- ~~*The Kekulé Problem*, Cormac McCarthy~~
+- ~~*The Library of Babel*, Jorge Luis Borges~~
 - *Orthodoxy*, G.K. Chesterton
 - *Philosophical Investigations*, Ludwig Wittgenstein
 - *On Certainty*, Ludwig Wittgenstein
