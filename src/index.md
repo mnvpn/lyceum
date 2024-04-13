@@ -2,7 +2,7 @@
 title: The Lyceum
 layout: layout.html
 ---
-Every Saturday, 3pm BST / 10am EDT on Discord. DM [@mnvpn](https://x.com/mnvpn) on Twitter for the server link. Click on the name of the text to access the copy we'll be discussing.  
+A casual book club, generally focused on philosophical texts. Meetings held every Saturday, 3pm BST / 10am EDT on Discord. DM [@mnvpn](https://x.com/mnvpn) on Twitter for the server link. Click on the name of the text to access the copy we'll be discussing.  
 
 ## Schedule
 | Date  | Text                                                                                                                                                                                                                     |
