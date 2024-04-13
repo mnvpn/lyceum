@@ -1,10 +1,10 @@
 ---
-title: The Lyceum
+title: lyceum
 layout: layout.html
 ---
 A casual book club, generally focused on philosophical texts. Meetings held every Saturday at 3pm BST / 10am EDT on Discord. DM [@mnvpn](https://x.com/mnvpn) on Twitter for the server link. Click on the name of the text to access the copy we'll be discussing.  
 
-## Schedule
+## schedule
 | Date  | Text                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 13/04 | [*The Kekulé Problem*](https://nautil.us/the-kekul-problem-236574/) and [*The Library of Babel*](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf) |
@@ -13,7 +13,7 @@ A casual book club, generally focused on philosophical texts. Meetings held ever
 | 23/03 | [*Apology*](https://classics.mit.edu/Plato/apology.html) and [*Crito*](https://classics.mit.edu/Plato/crito.html)                                                                                                        |
 | 16/03 | [*Euthyphro*](https://classics.mit.edu/Plato/euthyfro.html)                                                                                                                                                              |
 
-## Reading List
+## reading list
 Texts are picked on a per-session rolling basis, but we prefer to read 'modules' of related texts back to back for continuity.
 
 ### The Greeks
