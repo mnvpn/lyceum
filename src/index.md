@@ -7,6 +7,7 @@ A casual book club, generally focused on philosophical texts. Meetings held ever
 ## schedule
 | Date  | Text                                                                                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 20/04 | [*Republic*](https://classics.mit.edu/Plato/republic.html) (books 1 and 2)                                                                                                                                               |
 | 13/04 | [*The Kekulé Problem*](https://nautil.us/the-kekul-problem-236574/) and [*The Library of Babel*](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf) |
 | 06/04 | [*Phaedo*](https://classics.mit.edu/Plato/phaedo.html)                                                                                                                                                                   |
 | 30/03 | [*Meno*](https://classics.mit.edu/Plato/meno.html)                                                                                                                                                                       |
